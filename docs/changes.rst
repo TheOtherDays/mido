@@ -16,8 +16,7 @@ Release History
 * Improved MidiFile.play to avoid time drift. (Implemented by John
   Belmonte, pull request #161.)
 
-* New ``repr()`` format. (Original implementation by John Belmonte,
-  pull request #164.)
+* New ``repr()`` format. (Implemented by John Belmonte, pull request #164.)
 
 * bugfix: MIDO_DEFAULT_INPUT was misspelled in mido-ports causing it
   to be show as 'not set' even though it was set. (Fix by Bernhard
